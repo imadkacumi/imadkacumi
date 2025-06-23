@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imad Kacumi</h1>
-<h3 align="center">Passionate front-end developer focused on creating clean, user-friendly interfaces. Always learning and exploring new web technologies.</h3>
+<h3 align="center">Front-end developer with a passion for crafting beautiful, responsive, and intuitive web interfaces. I love turning ideas into interactive experiences using HTML, CSS, JavaScript, and modern frameworks like React. Always curious, always learning — I’m constantly exploring new tools, design trends, and best practices to level up my code and bring more value to every project. Whether it’s animations, accessibility, or performance, I care about the details that make great web experiences stand out.</h3>
+
+- 🌱 I’m currently learning **nextjs react**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
